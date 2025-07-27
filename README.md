@@ -5,6 +5,9 @@ It includes social login buttons for **Google** & **Apple**, and a simple userna
 
 ---
 
+# 👉 Live Demo : https://priyanshujajal.github.io/Static-Login-Page-REACT/
+
+
 ## 🚀 Features
 
 ✅ **Modern X/Twitter-style UI**  
